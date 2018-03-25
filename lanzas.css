@@ -1,0 +1,16 @@
+ 
+button{
+	width: 500px;
+  height: 200px;
+  background-color: red;
+  float: center;
+}
+a{
+  font-size: 70px;
+  color:white;
+}
+
+#uno{
+float: center;
+align-items: center;
+}
